@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(9, 34, 80, 0.9);
+  background: rgba(8, 29, 68, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -337,7 +337,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .info li .first-block {
   width: 40%;
   display: inline-block;
-  float: left;
+  float: none;
   color: #000;
   font-weight: bold;
 }
